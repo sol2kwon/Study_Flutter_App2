@@ -1,6 +1,7 @@
 # onboarding_screen
 
 A new Flutter project.
+사진 출처 : <a href="http://www.freepik.com">Designed by pikisuperstar / Freepik</a>
 
 ## Getting Started
 
